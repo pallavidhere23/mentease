@@ -155,7 +155,7 @@ export const OverlayPanel = styled.div`
   align-items: center;
   justify-content: center;
   flex-direction: column;
-  padding: 0 40px;
+ 
   text-align: center;
   top: 0;
   height: 100%;
